@@ -1,0 +1,11 @@
+.idea
+node_modules
+dist
+*.log
+src/**/*.js
+src/**/*.map
+src/**/*.metadata.json
+src/**/*.ngsummary.json
+src/**/*.d.ts
+.vscode
+coverage
